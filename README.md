@@ -38,7 +38,7 @@
 - **👀 Interests:** Bug optimization techniques, data mining, software testing
 - **🌱 Currently Learning:** Advanced topics in Computer Science and Engineering
 - **💞️ Looking to Collaborate On:** Projects related to bug optimization and data mining
-- **📫 How to Reach Me: [sankartc@citchennai.net]
+- **📫 How to Reach Me: ** [sankartc@citchennai.net]
 - **😄 Pronouns:** he/him
 - **⚡ Fun Fact:** I love exploring new programming languages and have a passion for teaching others how to code!
 
