@@ -21,6 +21,8 @@
   Vel Tech Engineering College, Chennai
 - **Assistant Professor**  
   SAMS College of Engineering and Technology
+- **Associate Professor**
+  Sri Venkateshwara College of Engineering and Technology
 - **Current Position**  
   Assistant Professor of Computer Science and Engineering, Chennai institute of technology
 
